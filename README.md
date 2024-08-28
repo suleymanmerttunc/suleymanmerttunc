@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/83b2d5e7-06b6-433d-a954-9986aba29707" alt="image" width="800" height="350"/>
+    <img src="https://github.com/user-attachments/assets/83b2d5e7-06b6-433d-a954-9986aba29707" alt="image" width="800" height="300"/>
 </p>
 <h1 align="center">Hi 👋, I'm Süleyman Mert Tunç</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>

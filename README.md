@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/83b2d5e7-06b6-433d-a954-9986aba29707)
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/83b2d5e7-06b6-433d-a954-9986aba29707" alt="image" width="800" height="350"/>
+</p>
 <h1 align="center">Hi 👋, I'm Süleyman Mert Tunç</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">

@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/user-attachments/assets/1a156507-de99-4683-ba6f-6c3590bd91d4)
 <h1 align="center">Hi 👋, I'm Süleyman Mert Tunç</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
